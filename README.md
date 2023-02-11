@@ -1,4 +1,4 @@
-#SCALP test
+### SCALP test ###
 
 Initial Issues
 During the setup process, I encountered the following issues:
